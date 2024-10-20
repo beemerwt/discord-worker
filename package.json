@@ -5,9 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Brandon 'Beemer' Woolworth",
   "license": "ISC",
-  "description": "",
+  "description": "Lightweight Discord.js that runs on Cloudflare Workers",
   "dependencies": {
     "@discordjs/builders": "^1.9.0",
     "@discordjs/rest": "^2.4.0",

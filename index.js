@@ -1,5 +1,5 @@
-import Worker from "./src/worker.js";
+const Worker = require("./src/worker.js");
 
-export {
+module.exports = {
 	Worker
-};
+}
